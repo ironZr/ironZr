@@ -1,7 +1,5 @@
 <br />
-<br />
 <img align="right" alt="GIF" src="./assets/code.gif" width="500" height="320" />
-
 
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
